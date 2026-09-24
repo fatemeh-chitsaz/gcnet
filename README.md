@@ -10,13 +10,4 @@ This repository currently contains:
 - `GCNET-CHITSAZ.pptx` — presentation material;
 - supporting notes.
 
-## Status
 
-This is a **study/presentation repository**, not a standalone software implementation. It is kept public as part of my ML coursework and literature-review history.
-
-For a future software version, I would add:
-
-- a PyTorch implementation;
-- a reproducible experiment;
-- dataset and training configuration;
-- benchmark results against a baseline CNN/attention model.
